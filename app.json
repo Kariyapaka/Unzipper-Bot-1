@@ -8,7 +8,7 @@
         "unzipper bot"
     ],
     "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Unzipper-Bot",
+    "repository": "https://github.com/Kariyapaka/Unzipper-Bot-1",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
